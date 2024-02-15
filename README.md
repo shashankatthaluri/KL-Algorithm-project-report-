@@ -26,4 +26,4 @@ Papers reviewed and summarized include work by:
 - Check the References.bib file for full citations
 - Let me know if you have any other bandit questions!
 
-I performed this project under the supervision of  M.K. Hanwal from IIT Bombay, India. 
+I performed this project under the supervision of  Prof. Manjesh.K. Hanawal from IIT Bombay, India. 
