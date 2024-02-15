@@ -1,16 +1,18 @@
 # 🎰 Multi-Armed Bandit Models 🎰
-A literature review exploring the fascinating world of multi-armed bandit problems! 🤓
+A literature review exploring the world of multi-armed bandit problems! 🤓
 
 ## 🤔 What is a Multi-Armed Bandit?
-The multi-armed bandit model seeks to balance exploration (gathering information) and exploitation (maximizing reward) to solve sequential decision making problems. It has applications in recommendation systems, clinical trials 👨‍⚕️, and more!
+A bandit is a simple slot machine wherein you insert a coin into the machine, pull a lever, and get an immediate reward. In this project, the multi-armed bandit model seeks to balance exploration (gathering information) and exploitation (maximizing reward) to solve sequential decision making problems. It has applications in recommendation systems, clinical trials 👨‍⚕️, and more!
 
 ## 📚 What This Project Covers
 This literature review examines seminal papers on multi-armed bandits that advanced the field, including:
 - The stochastic multi-armed bandit problem and Gittins indices
+- Refined lower bounds in both the fixed-confidence along with matching algorithms for Gaussian and Bernoulli bandit models.
 - Upper confidence bound 📈 algorithms
 - Best arm identification problems
 - Contextual/linear 🔢 bandits
 - Thompson sampling 🎯
+
 
 ## 📖 Key Papers Reviewed
 Papers reviewed and summarized include work by:
