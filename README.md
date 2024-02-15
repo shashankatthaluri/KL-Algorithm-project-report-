@@ -13,17 +13,15 @@ This literature review examines seminal papers on multi-armed bandits that advan
 - Thompson sampling
 
 ## 📖 Key Papers Reviewed
-
 Papers reviewed and summarized include work by:
 - Kaufmann et al
-- John Gittins
-- T. L. Lai & H. Robbins
-- Auer et al
-- Agrawal & Goyal
+- Vicotr Gabbillon
+- Shivaram Kalyanakrishnan
+- Jean-Yves
 
 📝 How to Use This Repo
 - Read the literature_review.pdf file for full summaries
 - Check the References.bib file for full citations
 - Let me know if you have any other bandit questions!
 
-I performed this project under the supervision of  Prof. Manjesh.K. Hanawal from IIT Bombay, India. 
+I performed this project under the supervision of  Prof. Manjesh K. Hanawal from IIT Bombay, India. 
